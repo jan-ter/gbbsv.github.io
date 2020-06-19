@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+---
+title: Mathematiktiktik
+---
 ## Duis autem
 # aha, so funtkioniert das also
 
